@@ -1,0 +1,3 @@
+[submodule "Dauf/lib/FreeRTOS-Kernel"]
+	path = Dauf/lib/FreeRTOS-Kernel
+	url = https://github.com/raspberrypi/FreeRTOS-Kernel
